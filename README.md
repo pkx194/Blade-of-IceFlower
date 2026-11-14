@@ -1,9 +1,13 @@
-# hyoubana · 冰花之刃
+# Blade-of-IceFlower · 冰花之刃
 
 Minecraft **1.20.1 / Forge 47.x** 的拔刀剑附属，单人自用。当前版本 **v0.1（预览）**：功能齐了，
-但还在观察期，配方的门槛与必杀技的手感后面都可能调。Mod 列表里显示为 **Frostbloom Blade**；
+但还在观察期，配方的门槛与必杀技的手感后面都可能调。Mod 列表里显示为 **Blade of IceFlower**；
 整个 mod 带一把成品命名刀 `hyoubana:ice_flower`（冰花之刃）、一把只为合成链存在的过渡刀 `hyoubana:ice_heart`（冰芯），
 外加一位刀灵「冰魄」。它是一整套**招式演示**：五记必杀技各有各的节奏，卖的东西互不重叠。
+
+> 名字说明：仓库、jar 与 Mod 列表显示名都叫 **Blade of IceFlower**，但 mod 的**内部 id 仍是 `hyoubana`**——
+> 它写进了 `hyoubana:ice_flower` 这类命名空间、语言键和已有存档，改不得。所以下面凡是带 `hyoubana:` 的
+> 都是技术 id，不是旧名残留。中文名「冰花之刃」不变。
 
 ## 运行环境
 
